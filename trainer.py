@@ -55,7 +55,8 @@ def Trainer(mode=0,gap=0,nb=1):
 		succes += DateAsker(mode,gap)
 		print("\n"*3)
 	ratio = succes/nb*100
-	print("Ratio sur {} tentatives : {}".format(nb,ratio))
+	ratio = round(ratio,3)
+	print("Ratio sur {} tentatives : {}%".format(nb,ratio))
 
 ########### 
 
