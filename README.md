@@ -31,6 +31,6 @@ trainer.py [ITERATION] [DIFFICULTE] [INTERVALLE]
 - **INTERVALLE** : Le programme prendra une année aléatoire dans l'intervalle [ACTUELLE - INTERVALLE; ACTUELLE] 
 
 ## Difficultés 
-- Mode 0 : Affiche la liste des premiers lundi de chaque mois.
-- Mode 1 : N'affiche aucune indication.
-- Mode 2 : Change le format d'affichage en remplaçant le chiffre par le nom du mois.
+- **Mode 0** : Affiche la liste des premiers lundi de chaque mois.
+- **Mode 1** : N'affiche aucune indication.
+- **Mode 2** : Change le format d'affichage en remplaçant le chiffre par le nom du mois.
