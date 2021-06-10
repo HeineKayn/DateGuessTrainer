@@ -26,9 +26,9 @@ trainer.py [ITERATION] [DIFFICULTE] [INTERVALLE]
 ```
 
 ## Paramètres
-- ITERATION : Nombre d'itération du programme.
-- DIFFICULTE : Change le fonctionnement du programme en fonction du paramètre (0,1 ou 2).
-- INTERVALLE : Le programme prendra une année aléatoire dans l'intervalle [ACTUELLE - INTERVALLE; ACTUELLE] 
+- **ITERATION** : Nombre d'itération du programme.
+- **DIFFICULTE** : Change le fonctionnement du programme en fonction du paramètre (0,1 ou 2).
+- **INTERVALLE** : Le programme prendra une année aléatoire dans l'intervalle [ACTUELLE - INTERVALLE; ACTUELLE] 
 
 ## Difficultés 
 - Mode 0 : Affiche la liste des premiers lundi de chaque mois.
